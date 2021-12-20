@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+:root {
+    --main-bg-color: #2874f0;
+  }
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.div card{
+    max-width: 91vw;
+    margin: auto;
+    padding-inline-end: 5%;
+    overflow: hidden;
+    display: inline-block;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Lato', sans-serif;
+}
+
